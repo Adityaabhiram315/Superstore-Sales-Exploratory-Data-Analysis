@@ -1,4 +1,6 @@
 # Superstore-Sales-Exploratory-Data-Analysis
+![image](https://github.com/Adityaabhiram315/Superstore-Sales-Exploratory-Data-Analysis/assets/95640107/3b530761-ec24-4662-8b52-b03f8f03fe07)
+
 ## Overview 🌍🛍️
 Welcome to the exciting world of retail data analysis! 🚀 In this comprehensive project, we embark on a journey through four years of global superstore sales data. Our mission is to unveil invaluable insights, unravel sales trends, patterns, and relationships, and empower stakeholders to make informed, data-driven decisions. 💡
 
